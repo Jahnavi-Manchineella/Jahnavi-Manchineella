@@ -10,10 +10,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=Jahnavi-Manchineella&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Jahnavi-Manchineella&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jahnavi-Manchineella&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
---->
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Jahnavi-Manchineella&theme=radical&row=1&column=6&margin-w=10&no-bg=true)
-
+--->
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical&quote=It%20does%20not%20matter%20how%20slowly%20you%20go%20as%20long%20as%20you%20do%20not%20stop.&author=Confucius)
 
