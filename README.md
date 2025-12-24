@@ -1,13 +1,4 @@
-## Hi there 👋
-
-<!--
-**Jahnavi-Manchineella/Jahnavi-Manchineella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to co# 💫 About Me:
+# 💫 About Me:
 <br>- 🎓 AIML Engineering student passionate about AI & intelligent systems  <br>- 🐍 Strong interest in Python, Machine Learning, and Deep Learning  <br>- 🤖 Love building AI-driven and automation-based projects  <br>- 🌐 Experience with full-stack development and web apps  <br>- ⚙️ Focused on clean code, scalability, and system design principles  <br>- 🚀 Always learning, experimenting, and turning ideas into real-world solutions<br>
 
 
@@ -33,10 +24,4 @@ Here are some ideas to get you started:
 ---
 [![](https://visitcount.itsvg.in/api?id=Jahnavi-Manchineella&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->llaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
